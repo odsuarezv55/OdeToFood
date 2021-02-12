@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyvnBE/2kaq7zRIsJyLW1MeDaDWqIWWZhRYoo8p+e1cCOLzUrv3641hYWkkJX0tTFwxa5nOwhO9hFqawdNbK0A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\suaosc01\\source\\repos\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suaosc01\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.2\\microsoft.netcore.app.runtime.win-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\suaosc01\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\suaosc01\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.2\\microsoft.aspnetcore.app.runtime.win-x64.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
